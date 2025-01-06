@@ -8,3 +8,5 @@ python variables
 Python Data types
 
 python operators
+
+conditional statements
