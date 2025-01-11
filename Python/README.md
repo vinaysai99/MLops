@@ -12,3 +12,5 @@ python operators
 conditional statements
 
 python lopps
+
+lists
