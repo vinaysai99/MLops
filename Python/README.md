@@ -14,3 +14,6 @@ conditional statements
 python lopps
 
 lists
+
+sets
+
