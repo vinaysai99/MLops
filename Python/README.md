@@ -126,4 +126,8 @@ standard library overview in python
 
 file operations
 
+file paths
 
+exceptional handling
+
+oops - inheritance,polymorphism
