@@ -131,3 +131,9 @@ file paths
 exceptional handling
 
 oops - inheritance,polymorphism
+
+encapsulation,abstraction
+
+magic methods, operator overloading
+
+custom exception handling
