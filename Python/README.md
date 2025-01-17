@@ -139,3 +139,5 @@ magic methods, operator overloading
 custom exception handling
 
 iterators
+
+generators
