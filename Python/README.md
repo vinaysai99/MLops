@@ -137,3 +137,5 @@ encapsulation,abstraction
 magic methods, operator overloading
 
 custom exception handling
+
+iterators
