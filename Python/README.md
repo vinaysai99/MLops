@@ -141,3 +141,5 @@ custom exception handling
 iterators
 
 generators
+
+decorators
