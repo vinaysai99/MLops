@@ -143,3 +143,5 @@ iterators
 generators
 
 decorators
+
+numpy
