@@ -145,3 +145,5 @@ generators
 decorators
 
 numpy
+
+pandas
