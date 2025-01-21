@@ -153,3 +153,5 @@ data manipulation
 Data source reading
 
 logging in python
+
+completed full python course
