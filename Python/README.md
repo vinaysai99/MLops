@@ -147,3 +147,5 @@ decorators
 numpy
 
 pandas
+
+data manipulation
