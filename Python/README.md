@@ -151,3 +151,5 @@ pandas
 data manipulation
 
 Data source reading
+
+logging in python
