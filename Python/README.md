@@ -52,11 +52,6 @@ with conditional logic    [expression for item in iterable if condition]
 Nested List Comprehension [expression for item1 in iterable1 for item2 in iterable2]
 ```
 
-sets
-
-tuples
-
-dictionary 
 
 functions - default,positional *args,keyword arguments **kwargs
 
