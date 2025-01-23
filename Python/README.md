@@ -1,19 +1,56 @@
+```python
 
-write about virtual env
+## this is single line comment
+'''
+this is a exmaple of
+multiline comments
+'''
+```
 
-python comments 
+## Python program to check if a variable is of a specific data type.
+```python
+var = 10.5
+if isinstance(var, float):
+    print(f"{var} is a float")
+else:
+    print(f"{var} is not a float")
+```
 
-python variables
+## Python program to reverse a string.
+```python
+string = input("Enter a string: ")
+reversed_string = string[::-1]
+print(f"The reversed string is: {reversed_string}")
+```
 
-Python Data types
+## Python program to check if a string is a palindrome.
+```python
+string = input("Enter a string: ")
+if string == string[::-1]:
+    print(f"{string} is a palindrome.")
+else:
+    print(f"{string} is not a palindrome.")
+```
 
-python operators
+## Loop Control Statements
+```python
+break
+## The break statement exits the loop permaturely
+continue
+## The continue statement skips the current iteration and continues with the next.
+pass
+## The pass statement is a null operation; it does nothing.
 
-conditional statements
+```
 
-python lopps
+## List Comprehension
+```python
+Basics Syantax            [expression for item in iterable]
 
-lists
+with conditional logic    [expression for item in iterable if condition]
+
+Nested List Comprehension [expression for item1 in iterable1 for item2 in iterable2]
+```
 
 sets
 
