@@ -367,3 +367,5 @@ logging in python
 completed full python course
 
 Handwritten Notes
+
+Notes Completed Feb 16 and uploaded
