@@ -368,4 +368,4 @@ completed full python course
 
 Handwritten Notes
 
-Notes Completed Feb 16 and uploaded
+Notes Completed Feb 16 and uploaded till modules should start file handling,exception handling, oops, special functions.
