@@ -366,6 +366,6 @@ logging in python
 
 completed full python course
 
-Handwritten Notes
+Handwritten Notes - file handling, exception handling, classes and objects.
 
-Notes Completed Feb 16 and uploaded till modules should start file handling,exception handling, oops, special functions.
+Notes Completed Feb 16 and uploaded till modules should start oops, special functions.
