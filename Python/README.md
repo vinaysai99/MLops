@@ -368,4 +368,4 @@ completed full python course
 
 Handwritten Notes - file handling, exception handling, classes and objects.
 
-Notes Completed Feb 16 and uploaded till modules should start oops, special functions.
+Notes Completed Feb 21 and uploaded till modules should Complete all python start flask.
