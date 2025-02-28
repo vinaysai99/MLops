@@ -362,7 +362,7 @@ data manipulation
 
 Data source reading
 
-logging in python
+logging in python - need to complete this logging
 
 completed full python course
 
