@@ -330,46 +330,6 @@ Function complex_calculation took 0.002854 seconds to execute.
 
 This approach is useful for measuring performance or adding other functionality like logging, authentication, etc.
 
-importing modules and packages
 
-standard library overview in python
 
-file operations
 
-file paths
-
-exceptional handling
-
-oops - inheritance,polymorphism
-
-encapsulation,abstraction
-
-magic methods, operator overloading
-
-custom exception handling
-
-iterators
-
-generators
-
-decorators
-
-numpy
-
-pandas
-
-data manipulation
-
-Data source reading
-
-logging in python - need to complete this logging
-
-completed full python course
-
-Handwritten Notes - file handling, exception handling, classes and objects.
-
-Notes Completed Feb 21 and uploaded till modules should Complete all python start flask.
-
-upload sql to linkedin.
-
-completed all python notes.
