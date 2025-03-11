@@ -18,7 +18,11 @@ This repository serves as a personal learning space where I explore Flask, cover
 ## Installation
 To run any of the Flask projects in this repository, follow these steps:
 
-1. Clone the repository.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/flask-learning.git
+   cd flask-learning
+   ```
 2. Create a virtual environment (optional but recommended):
    ```sh
    python -m venv venv
@@ -43,14 +47,45 @@ flask-learning/
 Each folder contains a different Flask concept or project.
 
 ## Topics Covered
-- Flask setup and environment
-- Routing and URL parameters
-- Template rendering (Jinja2)
-- Forms and user input handling
-- Database integration with SQLite and SQLAlchemy
-- Authentication and authorization
-- API development with Flask
-- Deployment strategies
+### Flask Setup and Environment
+- Install Flask using `pip install flask`
+- Set up a virtual environment for better dependency management
+- Use `FLASK_APP` and `FLASK_ENV` variables to configure the environment
+
+### Routing and URL Parameters
+- Define routes using `@app.route('/')`
+- Use dynamic URL parameters like `@app.route('/user/<name>')`
+- Handle HTTP methods (`GET`, `POST`, etc.)
+
+### Template Rendering (Jinja2)
+- Use Jinja2 templates to separate HTML from Python logic
+- Pass variables from Flask to templates using `render_template()`
+- Use template inheritance to reuse layout components
+
+### Forms and User Input Handling
+- Handle form data using `request.form`
+- Validate input with Flask-WTF and CSRF protection
+- Use `redirect()` and `url_for()` for better user flow
+
+### Database Integration with SQLite and SQLAlchemy
+- Use SQLite for lightweight applications
+- Integrate SQLAlchemy ORM for database management
+- Perform CRUD operations with Flask-SQLAlchemy
+
+### Authentication and Authorization
+- Use Flask-Login for user authentication
+- Hash passwords with `werkzeug.security`
+- Implement user roles and access control
+
+### API Development with Flask
+- Create RESTful APIs using Flask-RESTful
+- Return JSON responses with `jsonify()`
+- Use `Flask-CORS` to handle cross-origin requests
+
+### Deployment Strategies
+- Deploy Flask apps to Heroku, AWS, or Docker
+- Use Gunicorn for production servers
+- Configure environment variables for security
 
 ## Usage
 Navigate to a project folder and run:
