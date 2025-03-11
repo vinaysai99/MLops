@@ -40,7 +40,6 @@ flask-learning/
 │── templates/
 │── static/
 │── database-integration/
-│── authentication/
 │── requirements.txt
 │── README.md
 ```
@@ -71,11 +70,6 @@ Each folder contains a different Flask concept or project.
 - Use SQLite for lightweight applications
 - Integrate SQLAlchemy ORM for database management
 - Perform CRUD operations with Flask-SQLAlchemy
-
-### Authentication and Authorization
-- Use Flask-Login for user authentication
-- Hash passwords with `werkzeug.security`
-- Implement user roles and access control
 
 ### API Development with Flask
 - Create RESTful APIs using Flask-RESTful
