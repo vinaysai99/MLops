@@ -85,6 +85,9 @@ predictions = model.predict(data)
 mlflow models serve -m "models:/MyModel/1" --port 5000
 ```
 
+### Main notice :
+Start mlflow ui in command prompt of respective folder and then start running notebook cells.
+
 ## Conclusion
 MLflow is a powerful tool for managing machine learning workflows. By tracking experiments, storing artifacts, registering models, and deploying them for inference, MLflow improves collaboration, reproducibility, and efficiency in ML projects. Beginners can start using MLflow with minimal setup and expand their usage as their projects grow.
 
